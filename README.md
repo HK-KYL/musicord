@@ -1,4 +1,4 @@
-Here's the README content directly in the message for easy reading:
+
 🎵 Discord Music Bot
 🚀 Features
 
