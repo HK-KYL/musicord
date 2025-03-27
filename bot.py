@@ -145,4 +145,4 @@ async def karaoke(ctx):
 # (Keep all the previous commands like play, repeat, shuffle, etc.)
 
 # Replace 'YOUR_BOT_TOKEN' with your actual Discord bot token
-bot.run('YOUR_BOT_TOKEN')
+bot.run('DISCORD_TOKEN')
